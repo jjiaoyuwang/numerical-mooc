@@ -1,3 +1,5 @@
+#My first modification of numerical-mooc for learning how to use git
+
 #Practical Numerical Methods with Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
